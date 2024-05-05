@@ -5,6 +5,7 @@ public class Exceptiondemo {
 	public static void main(String[] args) {
 		
 		// TODO Auto-generated method stub
+// comment line
   int a=100;
    
   try
