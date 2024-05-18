@@ -3,8 +3,9 @@ package com.java.multithreading;
 public class multiThreading extends Thread {
 
 	public void run()
+	
 	{
-		System.out.println("Thread is running");
+		System.out.println("to check");
 	}
 
 public static void main(String args[])
