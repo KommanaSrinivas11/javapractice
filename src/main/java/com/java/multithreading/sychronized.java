@@ -3,7 +3,7 @@ package com.java.multithreading;
 
 public class sychronized extends Thread {
 	
-	public void run()
+	public synchronized void run()
 	{
 		for(int i=0;i<5;i++)
 		{
