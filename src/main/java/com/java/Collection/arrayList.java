@@ -13,6 +13,7 @@ public class arrayList {
 	list.add("Ravi");
 	list.add("Ravi");  
 	list.add("Ajay");  
+	list.add("demo to check");
 	System.out.println(list.get(0));
 	
 	Iterator it = list.iterator();
